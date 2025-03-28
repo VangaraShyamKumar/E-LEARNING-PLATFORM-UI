@@ -13,3 +13,5 @@
 *MENTOR*: NEELA SANTOSH
 
 E-LEARNING PLATFORM-UI I HAVE TOOLS USED HTML CSS
+
+##OUTPUT: ![Image](https://github.com/user-attachments/assets/1c4c7029-ca72-4e02-9091-6592afee4dc8)
